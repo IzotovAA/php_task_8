@@ -1,7 +1,7 @@
 ## Проект
 Решение задач с https://leetcode.com/
-1) 
-2) 
+1) https://leetcode.com/problems/3sum/ (SumOfThree.php)
+2) https://leetcode.com/problems/container-with-most-water/ (ContainerWithMostWater.php)
 3) 
 
 ## Требования к программному обеспечению
